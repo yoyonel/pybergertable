@@ -38,6 +38,7 @@ dynamic = ["version"]
 [project.scripts]
 # Use `fibonacci` as command-line script, comment or remove this section if not needed.
 fibonacci = "pybergertable.skeleton:app"
+berger_table = "pybergertable.skeleton:app"
 
 [project.urls]
 # important URLs for this project
